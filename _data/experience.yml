@@ -1,35 +1,44 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
-
 # Director of Digital Stratgy
 - company: United Nations Human Rights Council
   position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+  projects:
+    - name: Automotive Industry, Datacenter migration to Azure
+      role: Microsoft Azure Architect
+      duration:   2018  &mdash; 6 months
+      summary: <ul class="resume-item-list"><li>Designing Azure reference architecture and basic operational model</li><li>Knowledge Transfer to customer teams</li></ul>
+    - name: Supply Chain, Active Directory consolidation (105 domains, 25K users)
+      role: Active Directory Migration Architect
+      duration:   2017  &mdash; 8 months
+      summary: <ul class="resume-item-list"><li>Designing Active Directory migration process based on Binary Tree solutionfor 105 Domains.</li><li>Implementing the migration platform.</li><li>Knowledge transfer to the migration team.</li></ul>
+    - name: Railway Industry, Active Directory Migration (4 domains, 24K users)
+      role: Active Directory migration operator, Transitionmanager, L2Support
+      duration:   2016  &mdash; 15 months
+      summary: <ul class="resume-item-list"><li>Operating Active Directory migration.</li><li>Improving and automating migration process and report.</li><li>Managing transition of the migration team to India.</li><li>Animating daily briefing with migration team and providing L2 support.</li></ul>
 
 
 # Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: Avanade France, Infrastructure Talent Community
+  position: Consultant
+  projects:
+    - name: Automotive Industry, Datacenter migration to Azure
+      role: Microsoft Azure Architect
+      duration:   2018  &mdash; 6 months
+      summary: <ul class="resume-item-list"><li>Designing Azure reference architecture and basic operational model</li><li>Knowledge Transfer to customer teams</li></ul>
+    - name: Supply Chain, Active Directory consolidation (105 domains, 25K users)
+      role: Active Directory Migration Architect
+      duration:   2017  &mdash; 8 months
+      summary: <ul class="resume-item-list"><li>Designing Active Directory migration process based on Binary Tree solutionfor 105 Domains.</li><li>Implementing the migration platform.</li><li>Knowledge transfer to the migration team.</li></ul>
+    - name: Railway Industry, Active Directory Migration (4 domains, 24K users)
+      role: Active Directory migration operator, Transitionmanager, L2Support
+      duration:   2016  &mdash; 15 months
+      summary: <ul class="resume-item-list"><li>Operating Active Directory migration.</li><li>Improving and automating migration process and report.</li><li>Managing transition of the migration team to India.</li><li>Animating daily briefing with migration team and providing L2 support.</li></ul>
 
 # Air France - KLM
 - company: Air France - KLM
-  position: Process designer – PMO Assistant
-  project: INUIT Service Desk Program
-  duration:   2015  &mdash; 6 months
-  summary: <ul class="resume-item-list"><li>Assisting Steering Committee as PMO assistant.</li><li>Reviewing RFS providers proposal.</li><li>Implementing Prince & Agile methodologies.</li><li>Learning ITILv3 concepts (Incidents & Problems Management).</li></ul>
-
-
-  # TEST
-- company: TEST COMPANY
-  position: TEST POSITION
+  position: Intern
   projects:
-    - name: TEST PROJECT
+    - name: INUIT Service Desk Program
+      role: Process designer – PMO Assistant
       duration:   2015  &mdash; 6 months
       summary: <ul class="resume-item-list"><li>Assisting Steering Committee as PMO assistant.</li><li>Reviewing RFS providers proposal.</li><li>Implementing Prince & Agile methodologies.</li><li>Learning ITILv3 concepts (Incidents & Problems Management).</li></ul>

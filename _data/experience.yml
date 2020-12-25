@@ -1,23 +1,18 @@
 # Jobs
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
+# Sii Canada
+- company: Sii Canada, Infrastructure Business Unit
+  position: Consultant
   projects:
-    - name: Automotive Industry, Datacenter migration to Azure
-      role: Microsoft Azure Architect
-      duration:   2018  &mdash; 6 months
-      summary: <ul class="resume-item-list"><li>Designing Azure reference architecture and basic operational model</li><li>Knowledge Transfer to customer teams</li></ul>
-    - name: Supply Chain, Active Directory consolidation (105 domains, 25K users)
-      role: Active Directory Migration Architect
-      duration:   2017  &mdash; 8 months
-      summary: <ul class="resume-item-list"><li>Designing Active Directory migration process based on Binary Tree solutionfor 105 Domains.</li><li>Implementing the migration platform.</li><li>Knowledge transfer to the migration team.</li></ul>
-    - name: Railway Industry, Active Directory Migration (4 domains, 24K users)
-      role: Active Directory migration operator, Transitionmanager, L2Support
-      duration:   2016  &mdash; 15 months
-      summary: <ul class="resume-item-list"><li>Operating Active Directory migration.</li><li>Improving and automating migration process and report.</li><li>Managing transition of the migration team to India.</li><li>Animating daily briefing with migration team and providing L2 support.</li></ul>
+    - name: Banking Industry, Cloud consolidation
+      role: DevSecOps
+      duration:   2020  &mdash; Present
+      summary: <ul class="resume-item-list"><li>To come</li></ul>
+    - name: Banking Industry, Cloud transformation
+      role: Azure system administrator
+      duration:   2019  &mdash; 12 months
+      summary: <ul class="resume-item-list"><li>To come</li></ul>
 
-
-# Communications Coordinator
+# Avanade
 - company: Avanade France, Infrastructure Talent Community
   position: Consultant
   projects:
